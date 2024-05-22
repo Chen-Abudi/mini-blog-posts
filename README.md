@@ -10,12 +10,12 @@
 
 A practice project in React, showcasing blog posts.
 
-## 🧰 Tech Stack:
+## 🧰 🛠️ Tech Stack & Techniques:
 
 - React
 - React Router Dom v6
 - JavaScript
-- CSS
+- CSS Modules
 
 ---
 
