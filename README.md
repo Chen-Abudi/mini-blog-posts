@@ -3,19 +3,30 @@
 ## 📣 Overview:
 
 - Intro
-- Tech Stack & Techniques
+- Tech Stack
+- Techniques
 - Additional Link
 
 ## 🔎 Intro:
 
 A practice project in React, showcasing blog posts.
 
-## 🧰 🛠️ Tech Stack & Techniques:
+## 🧰 Tech Stack:
 
 - React
 - React Router Dom v6
 - JavaScript
 - CSS Modules
+
+## 🛠️ Techniques:
+
+- **`React Router Dom Components`**:
+  - **_NavLink_**: Is used for navigation between pages.
+  - **_Outlet_**: Is a component provided by React Router that serves as a placeholder for child routes within a parent route.
+- **`React Router Dom Hooks`**:
+- **_useLoaderData_**: Is a hook that helps to fetch the data for the component before it renders. It improves performance and prevents empty states.
+
+  **`Note`**: This hook can be used only in the element that's assigned to a route AND in all components that might be used inside that element but not on a higher level route.
 
 ---
 
