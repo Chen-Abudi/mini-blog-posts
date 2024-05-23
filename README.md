@@ -9,7 +9,7 @@
 
 ## 🔎 Intro:
 
-A practice project in React, showcasing blog posts.
+A practice project in React, showcasing blog posts. The main purpose of this is on deployment.
 
 ## 🧰 Tech Stack:
 
