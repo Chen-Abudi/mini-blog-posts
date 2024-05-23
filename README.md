@@ -20,6 +20,8 @@ A practice project in React, showcasing blog posts. The main purpose of this is 
 
 ## 🛠️ Techniques:
 
+- **_`Lazy Loading`_**
+
 - **`React Router Dom Components`**:
   - **_NavLink_**: Is used for navigation between pages.
   - **_Outlet_**: Is a component provided by React Router that serves as a placeholder for child routes within a parent route.
