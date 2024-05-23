@@ -29,6 +29,13 @@ A practice project in React, showcasing blog posts. The main purpose of this is 
 
     **`Note`**: This hook can be used only in the element that's assigned to a route AND in all components that might be used inside that element but not on a higher level route.
 
+- **`React Components`**:
+
+  - **_Suspense_**: Is a built-in React component which lets us temporarily render a fallback UI while its children are still loading.
+  - **_lazy()_**: Enables code-splitting by allowing components to be loaded lazily. This means the component is only loaded when it's needed, which can improve performance.
+
+    **`Note`**: It's used with **Suspense** to display a fallback while the lazy-loaded component is being fetched.
+
 ---
 
 ## 🔗 Additional Link:
