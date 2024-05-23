@@ -5,6 +5,7 @@
 - Intro
 - Tech Stack
 - Techniques
+- Live Project
 - Additional Link
 
 ## 🔎 Intro:
@@ -17,6 +18,7 @@ A practice project in React, showcasing blog posts. The main purpose of this is 
 - React Router Dom v6
 - JavaScript
 - CSS Modules
+- Firebase & Hosting
 
 ## 🛠️ Techniques:
 
@@ -37,6 +39,12 @@ A practice project in React, showcasing blog posts. The main purpose of this is 
   - **_lazy()_**: Enables code-splitting by allowing components to be loaded lazily. This means the component is only loaded when it's needed, which can improve performance.
 
     **`Note`**: It's used with **Suspense** to display a fallback while the lazy-loaded component is being fetched.
+
+---
+
+# 🚀 Live Project:
+
+- `Visit the Demo Project` [&#128073;&#127997; **HERE !**](https://blog-posts-demo.web.app)
 
 ---
 
